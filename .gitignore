@@ -1,0 +1,30 @@
+# Secrets - TUYỆT ĐỐI KHÔNG PUSH
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Certificates / local secrets
+certs/*.pem
+certs/*.crt
+certs/*.key
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
