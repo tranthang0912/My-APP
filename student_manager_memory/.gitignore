@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / database config cho giai đoạn sau
+.env
+*.pem
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/

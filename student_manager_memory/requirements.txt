@@ -1,0 +1,2 @@
+# Tkinter thường đi kèm Python trên Windows.
+# Chưa cần thư viện ngoài ở phiên bản Memory Repository.
